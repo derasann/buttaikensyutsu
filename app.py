@@ -72,4 +72,4 @@ if uploaded_file is not None:
     st.markdown('**認識されたコンテンツタグ**')
     st.markdown(f'> {tags_name}')
 
-streamlit==0.88
+#streamlit==0.88
